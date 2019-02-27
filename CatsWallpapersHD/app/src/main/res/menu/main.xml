@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mShare"
+        android:title="@string/share"
+        android:icon="@drawable/ic_menu_share"
+
+        app:showAsAction="always" />
+
+    <!--<item android:id="@+id/action_back"-->
+        <!--android:icon="@drawable/ic_action_picture"-->
+        <!--android:title="@string/back_to_Main"-->
+        <!--android:showAsAction="never"/>-->
+
+    <item
+        android:id="@+id/action_setwallpaper"
+        android:title="@string/action_setwallpaper"
+        android:icon="@drawable/ic_action_overflow"
+         />
+
+
+</menu>
